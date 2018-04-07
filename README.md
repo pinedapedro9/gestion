@@ -1,0 +1,2 @@
+# gestion
+clase especializacion
